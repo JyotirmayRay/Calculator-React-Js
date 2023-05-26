@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Raleway&display=swap');
+
+body {
+  height: 600px;
+  background-image: url(img/bg.jpg);
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+@media (min-width: 0px) and (min-height: 0px) {
+  html {
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Raleway', sans-serif;
+   
+  }
+}
+
+

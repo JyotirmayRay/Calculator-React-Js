@@ -1,0 +1,9 @@
+.component-app {
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+}
